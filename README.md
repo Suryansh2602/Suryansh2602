@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0052cc&height=250&section=header&text=I'm%20Suryansh%20Pushpkar%20🚀&fontSize=50&animation=fadeIn&fontAlignY=38" />
+  <img src="[https://capsule-render.vercel.app/render](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text)?type=waving&color=0052cc&height=250&section=header&text=I'm%20Suryansh%20Pushpkar%20🚀&fontSize=50&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
