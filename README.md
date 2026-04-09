@@ -1,8 +1,4 @@
-# <p align="center"><a href="https://github.com/Suryansh2602"><img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=I'm%20Suryansh%20Pushpkar%20🚀&fontSize=50&animation=fadeIn&fontAlignY=38" /></a></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=43A047&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+Backend+Specialist;Spring+Boot+%26+Microservices;LLM+Engineering+Enthusiast" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=43A047&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+Backend+Specialist;Spring+Boot+%26+Microservices;LLM+Engineering+Enthusiast" alt="Typing SVG" />
