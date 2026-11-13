@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0052cc&height=220&section=header&text=Suryansh%20Pushpkar&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=60&descAlign=50" alt="Suryansh Pushpkar header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0052cc&height=220&section=header&text=Suryansh%20Pushpkar&fontSize=52&fontColor=ffffff&animation=fadeIn" alt="Suryansh Pushpkar header banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=43A047&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;Java+Backend+Engineer;Spring+Boot+%26+Microservices;LLM+Engineering+Enthusiast" alt="Typing animation of roles" />
 
