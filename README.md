@@ -22,7 +22,6 @@
 
 Software Engineer at **WebKorps** (Indore, India), building full-stack applications with a strong focus on **Java and Spring Boot** backends. I enjoy designing clean APIs, structuring services for scale, and turning product ideas into working software.
 
-- **Currently building:** FriendBook (social media platform) and UrbanEats (microservices-based food ordering system)
 - **Currently exploring:** Spring AI and LLM engineering
 - **Based in:** Indore, India
 
@@ -34,7 +33,7 @@ Software Engineer at **WebKorps** (Indore, India), building full-stack applicati
 | :--- | :--- |
 | **Backend Engineering** | Java, Spring Boot, Spring Security, JPA / Hibernate, RESTful APIs |
 | **Architecture** | Microservices design, service decomposition, containerized deployment |
-| **Frontend** | React, TypeScript, HTML, CSS, Bootstrap |
+| **Frontend** | React, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap |
 | **Data** | MySQL, MongoDB |
 | **DevOps & Tooling** | Git, Docker, Kubernetes |
 | **AI Engineering** | Spring AI, LLM application development |
@@ -60,13 +59,15 @@ Software Engineer at **WebKorps** (Indore, India), building full-stack applicati
 
 ---
 
-## Featured Projects
+## Projects
 
 | Project | Description | Key Technologies |
 | :--- | :--- | :--- |
 | **🥘 [UrbanEats](https://github.com/Suryansh2602)** | Food ordering platform built on a microservices architecture | Java, Spring Boot, Microservices |
 | **📖 [FriendBook](https://github.com/Suryansh2602)** | Social media application with authentication, authorization, and persistent data | Java, Spring Boot, Spring Security, JPA |
+| **🌿 [Healthmarg](https://github.com/Suryansh2602)** *(in development)* | Yoga and Ayurveda wellness platform with disease-focused articles, subscriber guidance, and an admin panel for content management | Node.js, React, MySQL, AWS |
 | **🏛️ [Library Management System](https://github.com/Suryansh2602)** | Web application for managing library records and operations | JSP, Servlets, MySQL |
+| **✨ [Portfolio Website](https://github.com/Suryansh2602)** | Personal portfolio with a custom scroll-driven card stack animation, built without external animation libraries | React, Tailwind CSS |
 
 ---
 
